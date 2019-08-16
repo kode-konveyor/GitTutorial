@@ -12,3 +12,4 @@ Do the following steps:
 7. Push the branch to your remote repo (it's the same you cloned in step 2).
 8. Create a Pull Request to the original repository's master branch.
 
+Zsuzsanna Magosányi
